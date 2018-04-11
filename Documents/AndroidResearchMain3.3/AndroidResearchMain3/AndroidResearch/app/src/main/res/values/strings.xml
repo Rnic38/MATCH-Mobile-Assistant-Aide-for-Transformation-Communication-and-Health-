@@ -1,0 +1,524 @@
+<resources>
+    <string name="app_name">MATCH</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="generalInformation"><u>General Information</u></string>
+    <color name="white">#e6eeff</color>
+
+    <string name="who_we_are">
+        <b><u>Ryan Nicolosi</u></b>  is a student at Montclair State University pursuing an undergraduate degree in Information Technology and a minor in Computer Science. He is one of the website administrators on the New Jersey Autism Center of Excellence, and the main research assistant on this project. He is currently planning on graduating in May of 2018.
+
+        \n\n<b><u>Dr. Katherine Herbert-Berger</u></b> is an associate professor for the Computer Science Department of Montclair State University.  She is the graduate program director for Masters of Science of Information Technology online programs. The principal investigator of the NSF NECST program, and co-principal investigator for the NSF NJ-OPEN program. She is the IT-coordinator for the New Jersey Autism Center of Excellence and the head researcher on this project.
+    </string>
+
+
+
+
+    <string name="overview">
+      \n<b><u><h2>Overview of Austism Spectrum Disorder or (ASD)</h2></u></b>
+
+\n\nAutism spectrum disorder (ASD) is a developmental disorder that affects communication and behavior. Although autism can be diagnosed at any age, it is said to be a “developmental disorder” because symptoms generally appear in the first two years of life.
+
+\n\nAccording to the Diagnostic and Statistical Manual of Mental Disorders (DSM-5), a guide created by the American Psychiatric Association used to diagnose mental disorders, people with ASD have:
+
+    \n\nDifficulty with communication and interaction with other people
+    Restricted interests and repetitive behaviors
+    Symptoms that hurt the person’s ability to function properly in school, work, and other areas of life
+
+\n\nAutism is known as a “spectrum” disorder because there is wide variation in the type and severity of symptoms people experience. ASD occurs in all ethnic, racial, and economic groups. Although ASD can be a lifelong disorder, treatments and services can improve a person’s symptoms and ability to function. The American Academy of Pediatrics recommends that all children be screened for autism. All caregivers should talk to their doctor about ASD screening or evaluation.
+
+
+\n\nPeople with ASD often have these characteristics:
+
+    \n\n<li>Ongoing social problems that include difficulty communicating and interacting with others</li>
+    \n\n<li>Repetitive behaviors as well as limited interests or activities</li>
+    \n\n<li>Symptoms that typically are recognized in the first two years of life</li>
+    \n\n<li>Symptoms that hurt the individual’s ability to function socially, at school or work, or other areas of life
+    </li>
+
+    \nSome people are mildly impaired by their symptoms, while others are severely disabled.Treatments and services can improve a person’s symptoms and ability to function.Families with concerns should talk to their pediatrician about what they’ve observed and the possibility of ASD screening. According to the Centers for Disease Control and Prevention (CDC) around 1 in 68 children has been identified with some form of ASD.
+
+\n\n<b><u><h2>What is the difference between Asperger’s syndrome and ASD?</h2></u></b>
+
+        \n\nIn the past, Asperger’s syndrome and Autistic Disorder were separate disorders. They were listed as subcategories within the diagnosis of “Pervasive Developmental Disorders.” However, this separation has changed. The latest edition of the manual from the American Psychiatric Association, the Diagnostic and Statistical Manual of Mental Disorders (DSM-5), does not highlight subcategories of a larger disorder. The manual includes the range of characteristics and severity within one category. People whose symptoms were previously diagnosed as Asperger’s syndrome or Autistic Disorder are now included as part of the category called Autism Spectrum Disorder (ASD).
+
+ \n <a href="https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd/index.shtml"></a> National Institute of Mental Health"</string>
+    
+    <string name="overview2">
+
+
+
+\n<b><u><h1>Autism spectrum disorder (ASD):</h1></u></b>
+
+        \nis a developmental disability  that can cause significant social, communication and behavioral challenges. There is often nothing about how people with ASD look that sets them apart from other people, but people with ASD may communicate, interact, behave, and learn in ways that are different from most other people. The learning, thinking, and problem-solving abilities of people with ASD can range from gifted to severely challenged. Some people with ASD need a lot of help in their daily lives; others need less.
+
+\n\nA diagnosis of ASD now includes several conditions that used to be diagnosed separately: autistic disorder, pervasive developmental disorder not otherwise specified (PDD-NOS), and Asperger syndrome. These conditions are now all called autism spectrum disorder.
+
+\n\n<b><u><h2>Who is Affected:</h2></u></b>
+
+\n\nASD occurs in all racial, ethnic, and socioeconomic groups, but is about 4.5 times more common among boys than among girls.
+
+\n\nFor over a decade, CDC’s Autism and Developmental Disabilities Monitoring (ADDM) Network has been estimating the number of children with ASD in the United States. We have learned a lot about how many U. S. children have ASD. It will be important to use the same methods to track how the number of children with ASD is changing over time in order to learn more about the disorder.
+
+
+https://www.cdc.gov/ncbddd/autism/facts.htm
+
+    </string>
+
+
+
+
+    <string name="overview3">
+
+            \nAutism spectrum disorder (ASD) is a complex developmental disability; signs typically appear during early childhood and affect a person’s ability to communicate, and interact with others. ASD is defined by a certain set of behaviors and is a “spectrum condition” that affects individuals differently and to varying degrees. There is no known single cause of autism, but increased awareness and early diagnosis/intervention and access to appropriate services/supports lead to significantly improved outcomes. Some of the behaviors associated with autism include delayed learning of language; difficulty making eye contact or holding a conversation; difficulty with executive functioning, which relates to reasoning and planning; narrow, intense interests; poor motor skills’ and sensory sensitivities. Again, a person on the spectrum might follow many of these behaviors or just a few, or many others besides. The diagnosis of autism spectrum disorder is applied based on analysis of all behaviors and their severity.
+
+            \n\nIn 2016, the Centers for Disease Control and Prevention issued their ADDM autism prevalence report. The report concluded that the prevalence of autism had risen to 1 in every 68 births in the United States – nearly twice as great as the 2004 rate of 1 in 125 – and almost 1 in 54 boys. The spotlight shining on autism as a result has opened opportunities for the nation to consider how to serve families facing a lifetime of supports for their children. In June 2014, researchers estimated the lifetime cost of caring for a child with autism is as great as $2.4 million. The Autism Society estimates that the United States is facing almost $90 billion annually in costs for autism. (This figure includes research, insurance costs and non-covered expenses, Medicaid waivers for autism, educational spending, housing, transportation, employment, related therapeutic services and caregiver costs.)
+            Know the signs: Early identification can change lives
+
+            \n\nThere is no known single cause for autism spectrum disorder, but it is generally accepted that it is caused by abnormalities in brain structure or function. Brain scans show differences in the shape and structure of the brain in children with autism compared to in neurotypical children. Researchers do not know the exact cause of autism but are investigating a number of theories, including the links among heredity, genetics and medical problems.
+
+            \n\nIn many families, there appears to be a pattern of autism or related disabilities, further supporting the theory that the disorder has a genetic basis. While no one gene has been identified as causing autism, researchers are searching for irregular segments of genetic code that children with autism may have inherited. It also appears that some children are born with a susceptibility to autism, but researchers have not yet identified a single “trigger” that causes autism to develop.
+
+            \n\nOther researchers are investigating the possibility that under certain conditions, a cluster of unstable genes may interfere with brain development, resulting in autism. Still other researchers are investigating problems during pregnancy or delivery as well as environmental factors such as viral infections, metabolic imbalances and exposure to chemicals.
+            Genetic Vulnerability
+
+            \n\nAutism tends to occur more frequently than expected among individuals who have certain medical conditions, including fragile X syndrome, tuberous sclerosis, congenital rubella syndrome and untreated phenylketonuria (PKU). Some harmful substances ingested during pregnancy also have been associated with an increased risk of autism.
+
+
+            http://www.autism-society.org/what-is/symptoms/
+
+
+    </string>
+    <string name="NIMH_signs" >
+
+        \n<b><u><h2>Signs and Symptoms</h2></u></b>
+
+        \n\nParents or doctors may first identify ASD behaviors in infants and toddlers. School staff may recognize these behaviors in older children. Not all people with ASD will show all of these behaviors, but most will show several. There are two main types of behaviors: “restricted/repetitive behaviors” and “social communication/interaction behaviors.”
+        Restrictive/repetitive behaviors may include:
+
+        \n\n<b><u><h2>Repeating certain behaviors or having unusual behaviors</h2></u></b>
+
+        \n\nHaving overly focused interests, such as with moving objects or parts of objects
+        Having a lasting, intense interest in certain topics, such as numbers, details, or facts.
+
+        \n\n<b><u><h2>Social communication interaction behaviors may include:</h2></u></b>
+
+        \\n<li>Getting upset by a slight change in a routine or being placed in a new or overly stimulating setting</li>
+        \n<li>Making little or inconsistent eye contact</li>
+        \n<li>Having a tendency to look at and listen to other people less often</li>
+        \n<li>Rarely sharing enjoyment of objects or activities by pointing or showing things to others</li>
+        \n<li>Responding in an unusual way when others show anger, distress, or affection</li>
+        \n<li>Failing to, or being slow to, respond to someone calling their name or other verbal attempts to gain attention</li>
+        \n<li>Having difficulties with the back and forth of conversations</li>
+        \n<li>Often talking at length about a favorite subject without noticing that others are not interested or without giving others a chance to respond</li>
+        \n<li>Repeating words or phrases that they hear, a behavior called echolalia</li>
+        \n<li>Using words that seem odd, out of place, or have a special meaning known only to those familiar with that person’s way of communicating.</li>
+        \n<li>Having facial expressions, movements, and gestures that do not match what is being said.</li>
+        \n<li>Having an unusual tone of voice that may sound sing-song or flat and robot-like</li>
+        \n<li>Having trouble understanding another person’s point of view or being unable to predict or understand other people’s actions.</li>
+
+    </string>
+
+
+
+    <string name="ASOA_signs" >
+        \n<b><u><h2>Sign and symptoms.</h2></u></b>
+\n\nThe characteristic behaviors of autism spectrum disorder may be apparent in infancy (18 to 24 months), but they usually become clearer during early childhood (24 months to 6 years).
+
+\n\nAs part of a well-baby or well-child visit, your child’s doctor should perform a “developmental screening,” asking specific questions about your baby’s progress. The National Institute of Child Health and Human Development (NICHD) lists five behaviors that warrant further evaluation:
+
+    \n<li>Does not babble or coo by 12 months</li>
+    \n<li>Does not gesture (point, wave, grasp) by 12 months</li>
+    \n<li>Does not say single words by 16 months</li>
+    \n<li>Does not say two-word phrases on his or her own by 24 months</li>
+    \n<li>Has any loss of any language or social skill at any age</li>
+
+\n\nAny of these five “red flags” does not mean your child has autism. But because the disorder’s symptoms vary so widely, a child showing these behaviors should be evaluated by a multidisciplinary team. This team might include a neurologist, psychologist, developmental pediatrician, speech/language therapist, learning consultant or other professionals who are knowledgeable about autism.
+
+    </string>
+
+    <string name="CDC_signs" >
+
+
+\n<b><u><h2>Signs and Symptoms: </h2></u></b>
+
+\n\nAutism spectrum disorder (ASD) is a developmental disability caused by differences in the brain. Scientists do not know yet exactly what causes these differences for most people with ASD. However, some people with ASD have a known difference, such as a genetic condition. There are multiple causes of ASD, although most are not yet known.
+
+\n\nThere is often nothing about how people with ASD look that sets them apart from other people, but they may communicate, interact, behave, and learn in ways that are different from most other people. The learning, thinking, and problem-solving abilities of people with ASD can range from gifted to severely challenged. Some people with ASD need a lot of help in their daily lives; others need less.
+
+\n\nA diagnosis of ASD now includes several conditions that used to be diagnosed separately: autistic disorder, pervasive developmental disorder not otherwise specified (PDD-NOS), and Asperger syndrome. These conditions are now all called autism spectrum disorder.
+
+\n\nASD begins before the age of 3 and last throughout a person's life although symptoms may improve over time. Some children with ASD show hints of future problems within the first few months of life. In others, symptoms may not show up until 24 months or later. Some children with an ASD seem to develop normally until around 18 to 24 months of age and then they stop gaining new skills, or they lose the skills they once had. Studies have shown that one third to half of parents of children with an ASD noticed a problem before their child’s first birthday, and nearly 80%–90% saw problems by 24 months of age.
+
+\n\nIt is important to note that some people without ASD might also have some of these symptoms. But for people with ASD, the impairments make life very challenging.
+
+\n\nPeople with ASD often have problems with social, emotional, and communication skills. They might repeat certain behaviors and might not want change in their daily activities. Many people with ASD also have different ways of learning, paying attention, or reacting to things. Signs of ASD begin during early childhood and typically last throughout a person’s life.
+
+\n\n<b><u><h2>Children or adults with ASD might:</h2></u></b>
+
+    \n<li>not point at objects to show interest (for example, not point at an airplane flying over)</li>
+    \n<li>not look at objects when another person points at them</li>
+    \n<li>have trouble relating to others or not have an interest in other people at all</li>
+    \n<li>avoid eye contact and want to be alone</li>
+    \n<li>have trouble understanding other people’s feelings or talking about their own feelings</li>
+    \n<li>prefer not to be held or cuddled, or might cuddle only when they want to</li>
+    \n<li>appear to be unaware when people talk to them, but respond to other sounds</li>
+    \n<li>be very interested in people, but not know how to talk, play, or relate to them</li>
+    \n<li>repeat or echo words or phrases said to them, or repeat words or phrases in place of normal language</li>
+    \n<li>have trouble expressing their needs using typical words or motions</li>
+    \n<li>not play “pretend” games (for example, not pretend to “feed” a doll)</li>
+    \n<li>repeat actions over and over again</li>
+    \n<li>have trouble adapting when a routine changes</li>
+    \n<li>have unusual reactions to the way things smell, taste, look, feel, or sound</li>
+    \n<li>lose skills they once had (for example, stop saying words they were using)</li>
+
+\n\n<b><u><h2>Social Skills</h2></u></b>
+
+\n\n<b>Examples of social issues related to ASD:</b>
+
+    \n<li>Does not respond to name by 12 months of age</li>
+    \n<li>Avoids eye-contact</li>
+    \n<li>Prefers to play alone</li>
+    \n<li>Does not share interests with others</li>
+    \n<li>Only interacts to achieve a desired goal</li>
+    \n<li>Has flat or inappropriate facial expressions</li>
+    \n<li>Does not understand personal space boundaries</li>
+    \n<li>Avoids or resists physical contact</li>
+    \n<li>Is not comforted by others during distress</li>
+    \n<li>Has trouble understanding other people's feelings or talking about own feelings</li>
+
+\n\nTypical infants are very interested in the world and people around them. By the first birthday, a typical toddler interacts with others by looking people in the eye, copying words and actions, and using simple gestures such as clapping and waving "bye bye". Typical toddlers also show interests in social games like peek-a-boo and pat-a-cake. But a young child with an ASD might have a very hard time learning to interact with other people.
+
+\n\nSome people with an ASD might not be interested in other people at all. Others might want friends, but not understand how to develop friendships. Many children with an ASD have a very hard time learning to take turns and share—much more so than other children. This can make other children not want to play with them.
+
+\n\nPeople with an ASD might have problems with showing or talking about their feelings. They might also have trouble understanding other people's feelings. Many people with an ASD are very sensitive to being touched and might not want to be held or cuddled. Self-stimulatory behaviors (e.g., flapping arms over and over) are common among people with an ASD. Anxiety and depression also affect some people with an ASD. All of these symptoms can make other social problems even harder to manage.
+
+\n\n<b>Some people with ASD have other symptoms. These might include:</b>
+
+    \n<li>Hyperactivity (very active)</li>
+    \n<li>Impulsivity (acting without thinking)</li>
+    \n<li>Short attention span</li>
+    \n<li>Aggression</li>
+    \n<li>Causing self injury</li>
+    \n<li>Temper tantrums</li>
+    \n<li>Unusual eating and sleeping habits</li>
+    \n<li>Unusual mood or emotional reactions</li>
+    \n<li>Lack of fear or more fear than expected</li>
+    \n<li>Unusual reactions to the way things sound, smell, taste, look, or feel</li>
+
+\n\nPeople with ASD might have unusual responses to touch, smell, sounds, sights, and taste, and feel. For example, they might over- or under-react to pain or to a loud noise. They might have abnormal eating habits. For instance, some people with an ASD limit their diet to only a few foods. Others might eat nonfood items like dirt or rocks (this is called pica). They might also have issues like chronic constipation or diarrhea.
+
+\n\nPeople with ASD might have odd sleeping habits. They also might have abnormal moods or emotional reactions. For instance, they might laugh or cry at unusual times or show no emotional response at times you would expect one. In addition, they might not be afraid of dangerous things, and they could be fearful of harmless objects or events.
+
+
+https://www.cdc.gov/ncbddd/autism/signs.html
+
+
+    </string>
+
+
+
+
+
+    <string name="causesNIMH">
+        \n<b><u>Diagnoses/Risks/Causes</u></b>
+
+\n\nWhile scientists don’t know the exact causes of ASD, research suggests that genes can act together with influences from the environment to affect development in ways that lead to ASD. Although scientists are still trying to understand why some people develop ASD and others don’t, some risk factors include:
+
+    \n<li>Having a sibling with ASD</li>
+    \n<li>Having older parents</li>
+    \n<li>Having certain genetic conditions—people with conditions such as Down syndrome, fragile X syndrome, and Rett syndrome are more likely than others to have ASD</li>
+    \n<li>Very low birth weight</li>
+
+\n\nDiagnosing ASD
+
+\n\nDoctors diagnose ASD by looking at a person’s behavior and development. ASD can usually be reliably diagnosed by the age of two. It is important for those with concerns to seek out assessment as soon as possible so that a diagnosis can be made, and treatment can begin.
+Diagnosis in Young Children
+
+\n\nDiagnosis in young children is often a two-stage process.
+Stage 1: General Developmental Screening During Well-Child Checkups
+
+\n\nEvery child should receive well-child check-ups with a pediatrician or an early childhood health care provider. The American Academy of Pediatrics recommends that all children be screened for developmental delays at their 9-, 18-, and 24- or 30-month well-child visits and specifically for autism at their 18- and 24-month well-child visits. Additional screening might be needed if a child is at high risk for ASD or developmental problems. Those at high risk include children who have a family member with ASD, have some ASD behaviors, have older parents, have certain genetic conditions, or who were born at a very low birth weight.
+
+\n\nParents’ experiences and concerns are very important in the screening process for young children. Sometimes the doctor will ask parents questions about the child’s behaviors and combine those answers with information from ASD screening tools, and with his or her observations of the child. Read more about screening instruments on the Centers for Disease Control and Prevention (CDC) website.
+
+\n\nChildren who show developmental problems during this screening process will be referred for a second stage of evaluation.
+Stage 2: Additional Evaluation
+
+\n\nThis second evaluation is with a team of doctors and other health professionals who are experienced in diagnosing ASD.
+
+\n\nThis team may include:
+
+     \n<li>A developmental pediatrician—a doctor who has special training in child development</li>
+     \n<li>A child psychologist and/or child psychiatrist—a doctor who has specialized training in brain development and behavior</li>
+     \n<li>A neuropsychologist—a doctor who focuses on evaluating, diagnosing, and treating neurological, medical, and neurodevelopmental disorders</li>
+     \n<li>A speech-language pathologist—a health professional who has special training in communication difficulties</li>
+
+\n\nThe evaluation may assess:
+
+    \n<li>Cognitive level or thinking skills</li>
+    \n<li>Language abilities</li>
+    \n<li>Age-appropriate skills needed to complete daily activities independently, such as eating, dressing, and toileting</li>
+
+\n\nBecause ASD is a complex disorder that sometimes occurs along with other illnesses or learning disorders, the comprehensive evaluation may include:
+
+    \n<li>Blood tests</li>
+    \n<li>Hearing test</li>
+
+\n\nThe outcome of the evaluation will result in a formal diagnosis and recommendations for treatment.
+Diagnosis in older children and adolescents
+
+\n\nASD symptoms in older children and adolescents who attend school are often first recognized by parents and teachers and then evaluated by the school’s special education team. The school’s team may perform an initial evaluation and then recommend these children visit their primary health care doctor or doctors who specialize in ASD for additional testing.
+
+\n\nParents may talk with these specialists about their child’s social difficulties including problems with subtle communication. These subtle communication issues may include problems understanding tone of voice, facial expressions, or body language. Older children and adolescents may have trouble understanding figures of speech, humor, or sarcasm. Parents may also find that their child has trouble forming friendships with peers.
+
+\n\nDiagnosis in adults
+
+\n\nDiagnosing ASD in adults is often more difficult than diagnosing ASD in children. In adults, some ASD symptoms can overlap with symptoms of other mental-health disorders, such as anxiety or attention-deficit/hyperactivity disorder (ADHD).
+
+\n\nAdults who notice the signs and symptoms of ASD should talk with a doctor and ask for a referral for an ASD evaluation. While testing for ASD in adults is still being refined, adults can be referred to a neuropsychologist, psychologist, or psychiatrist who has experience with ASD. The expert will ask about concerns, such as:
+
+    \n<li>Social interaction and communication challenges</li>
+    \n<li>Sensory issues</li>
+    \n<li>Repetitive behaviors</li>
+    \n<li>Restricted interests</li>
+
+\n\nInformation about the adult’s developmental history will help in making an accurate diagnosis, so an ASD evaluation may include talking with parents or other family members.
+
+\n\nGetting a correct diagnosis of ASD as an adult can help a person understand past difficulties, identify his or her strengths, and obtain the right kind of help. Studies are now underway to determine the types of services and supports that are most helpful for improving the functioning and community integration of transition-age youth and adults with ASD.
+Changes to the diagnosis of ASD
+
+
+
+\n\nIn 2013, a revised version of the Diagnostic and Statistical Manual of Mental Disorders (DSM) was released. This revision changed the way autism is classified and diagnosed. Using the previous version of the DSM, people could be diagnosed with one of several separate conditions:
+
+    \n<li>Autistic disorder</li>
+   \n<li> Asperger’s’ syndrome</li>
+    \n<li>Pervasive developmental disorder not otherwise specified (PDD-NOS)</li>
+
+\n\nIn the current revised version of the DSM (the DSM-5), these separate conditions have been combined into one diagnosis called “autism spectrum disorder.” Using the DSM-5, for example, people who were previously diagnosed as having Asperger’s syndrome would now be diagnosed as having autism spectrum disorder. Although the “official” diagnosis of ASD has changed, there is nothing wrong with continuing to use terms such as Asperger’s syndrome to describe oneself or to identify with a peer group.
+
+
+\n <a href="https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd/index.shtml">"National Institute of Mental Health"</a>
+
+    </string>
+
+    <string name="causesCDC" >
+
+\n<u><b><h2>Causes and Risk Factors</h2></b></u>
+
+\n\nWe do not know all of the causes of ASD. However, we have learned that there are likely many causes for multiple types of ASD. There may be many different factors that make a child more likely to have an ASD, including environmental, biologic and genetic factors.
+
+    \n\n<li>Most scientists agree that genes are one of the risk factors that can make a person more likely to develop ASD.4
+    Children who have a sibling with ASD are at a higher risk of also having ASD. 5-10</li>
+    \n\n<li>ASD tends to occur more often in people who have certain genetic or chromosomal conditions, such as fragile X syndrome  or tuberous sclerosis.11-14</li>
+    \n\n<li>When taken during pregnancy, the prescription drugs valproic acid and thalidomide have been linked with a higher risk of ASD.15-16</li>
+    \n\n<li>There is some evidence that the critical period for developing ASD occurs before, during, and immediately after birth. 17</li>
+    \n\n<li>Children born to older parents are at greater risk for having ASD.18</li>
+
+\n\nASD continues to be an important public health concern. Like the many families living with ASD, CDC wants to find out what causes the disorder. Understanding the factors that make a person more likely to develop ASD will help us learn more about the causes. We are currently working on one of the largest U.S. studies to date, called Study to Explore Early Development (SEED). SEED is looking at many possible risk factors for ASD, including genetic, environmental, pregnancy, and behavioral factors.
+
+
+There is still a lot to learn about ASD. Research on ASD has increased a great deal in recent years and CDC is part of the larger group of public and private organizations working to better understand ASD through research. Like the many families living with ASD, CDC considers ASD an important public health concern. CDC is committed to continuing to provide essential data on ASD, search for risk factors and causes, and develop resources that help identify children with ASD as early as possible.(Link to the research page for those who are more interested from the CDC https://www.cdc.gov/ncbddd/autism/research.html)
+
+Diagnosis
+
+    Diagnosing ASD can be difficult since there is no medical test, like a blood test, to diagnose the disorders. Doctors look at the child’s behavior and development to make a diagnosis.
+
+    ASD can sometimes be detected at 18 months or younger. By age 2, a diagnosis by an experienced professional can be considered very reliable.1 However, many children do not receive a final diagnosis until much older. This delay means that children with ASD might not get the early help they need.
+
+
+
+"https://www.cdc.gov/ncbddd/autism/facts.html"
+
+
+
+
+
+    </string>
+
+
+    <string name="causeASOA" >
+        \n<b><u>Diagnosis</u></b>
+
+\n\nWhen parents or support providers become concerned that their child is not following a typical developmental course, they turn to experts, including psychologists, educators and medical professionals, for a diagnosis.
+
+\n\nAt first glance, some people with autism may appear to have an intellectual disability, sensory processing issues, or problems with hearing or vision. To complicate matters further, these conditions can co-occur with autism. However, it is important to distinguish autism from other conditions, as an accurate and early autism diagnosis can provide the basis for an appropriate educational and treatment program.
+
+\n\nOther medical conditions or syndromes, such as sensory processing disorder, can present symptoms that are confusingly similar to autism’s. This is known as differential diagnosis.
+
+\n\nThere are many differences between a medical diagnosis and an educational determination, or school evaluation, of a disability. A medical diagnosis is made by a physician based on an assessment of symptoms and diagnostic tests. A medical diagnosis of autism spectrum disorder, for instance, is most frequently made by a physician according to the Diagnostic and Statistical Manual (DSM-5, released 2013) of the American Psychological Association. This manual guides physicians in diagnosing autism spectrum disorder according to a specific number of symptoms.
+
+\n\nA brief observation in a single setting cannot present a true picture of someone’s abilities and behaviors. The person’s developmental history and input from parents, caregivers and/or teachers are important components of an accurate diagnosis.
+
+\n\nAn educational determination is made by a multidisciplinary evaluation team of various school professionals. The evaluation results are reviewed by a team of qualified professionals and the parents to determine whether a student qualifies for special education and related services under the Individuals with Disabilities Education Act (IDEA) (Hawkins, 2009).
+
+\n<li>•Allergies/ Immune System: Many individuals with autism also suffer immune system deficiencies or immune dysregulation.  Within the autism spectrum population, there are groups that will experience rashes, allergic sensitivities, gastrointestinal, ear and other infections as a result. Immune deficiencies and/or immune dysregulation make a person with autism more vulnerable to infection, chronic inflammation and autoimmune reactions, most frequently in the brain and gastrointestinal tract (Jepson, 2007).</li>
+
+\n<li>•Chronic Constipation and/or Diarrhea:  Medical literature states that about 47 percent of adults on the spectrum and 45 percent of children with autism have gastrointestinal symptoms. Diarrhea is most common, abdominal pain is cited next most frequently, and constipation is reported slightly less. Constipation in autism is usually not hard, impacted stools, but the slow passage of stools with long gaps in between, and loose stools when they do come.</li>
+
+\n<li>•Low IQ: Research studies have frequently used inappropriate IQ tests, such as verbal tests with nonverbal children, and in some cases have estimated children’s intelligence level without any objective evidence. Tests that do not require language skills, such as the Test of Nonverbal Intelligence (TONI), can offer more accurate information about the person.</li>
+
+\n<li>•Low Muscle Tone: About 30 percent of children with autism have moderate to severe loss of muscle tone, which can limit their gross and fine motor skills.</li>
+
+\n<li>•Pain: Some people with autism have very high pain thresholds (insensitivity to pain), while others have very low pain thresholds. There are interventions, such as sensory integration therapy, designed to help normalize their senses.</li>
+
+\n<li>•Pica:  About 30 percent of children with autism have moderate to severe pica, which means they eat non-food items such as paint, sand, dirt, paper, etc. Pica can be dangerous as ingesting these inedible substances can cause choking, digestive problems, parasitic infections and other illnesses.</li>
+
+\n<li>•Seizures: It is estimated that around 30 percent  of people with autism develop epilepsy, some in early childhood and others as they go through hormone level changes in puberty. Suspected seizures should be confirmed by electroencephalogram (EEG) and treated with prescribed anticonvulsant medications.</li>
+
+\n<li>•Sensory Processing Disorder: Many people with autism have sensory processing disorder (formerly known as sensory integration disorder), which involves unusual sensitivities to sounds, sights, touch, taste and smells. High-pitched intermittent sounds, such as fire alarms or school bells, may be painful to these children. Scratchy fabrics and clothing tags may also be intolerable, and some children have visual sensitivities, such as to the flickering of fluorescent lights.</li>
+
+\n<li>•Sleep Problems:  Many individuals with autism have sleep problems. Night waking may be due to gastrointestinal issues, allergies, environmental intolerances, seizures or the effects of medications. Other potential causes are sleep apnea (pauses in breathing when the airway becomes obstructed during sleep), sleep terrors or confusional arousals. Children with sensory processing difficulties may have more problems falling asleep and increased periods of night waking. The Autism Society offers a guide on sleep problems and strategies for solving them.
+Hearing and Visual Impairments</li>
+
+\n\nChildren with a dual diagnosis of autism and a sensory impairment face many possible paths. If the child is born deaf/hard of hearing or blind/visually impaired, that diagnosis is usually made early on, and autism behaviors may be mistaken for a reaction to the sensory loss. Conversely, if a child with autism has progressive hearing and visual impairments, his or her adaptation to the sensory loss may be misunderstood as a behavior of autism. For more information, visit the Nebraska Center for the Education of Children who are Blind or Visually Impaired or this article about autism and deafness.
+
+\n\nAbout 30 percent of children receiving education related to deafness/hard of hearing and blindness/visual impairment are also identified as having autism. Every child should be able to enter his/her education program in the best aural and visual health possible, and should be monitored and tested to ensure continued health and care. For more in-depth information on hearing and vision screenings for people with autism, see this article from the Autism Advocate.
+
+\n\nFamilies can feel overwhelmed and isolated while searching for information. An Autism Society subgroup, the Autism Network For Individuals Deaf/Hard Of Hearing and Blind/Visually Impaired, holds its annual meeting at the Autism Society’s National Conference every July. The network, which has worldwide family and professional membership, provides links to other families and researchers through the Autism Research Institute.
+
+\n\nhttp://www.autism-society.org/what-is/diagnosis/related-conditions/
+
+
+    </string>
+
+
+    <string name="treatmentNIMH">
+
+         \nTreatment and help
+
+
+\nTreatments and Therapies from the national institue of mental health
+
+\n\nTreatment for ASD should begin as soon as possible after diagnosis. Early treatment for ASD is important as proper care can reduce individuals’ difficulties while helping them learn new skills and make the most of their strengths.
+
+\n\nThe wide range of issues facing people with ASD means that there is no single best treatment for ASD. Working closely with a doctor or health care professional is an important part of finding the right treatment program.
+Medication
+
+\n\nA doctor may use medication to treat some symptoms that are common with ASD. With medication, a person with ASD may have fewer problems with:
+
+    \n<li>Irritability</li>
+    \n<li>Aggression</li>
+    \n<li>Repetitive behavior</li>
+    \n<li>Hyperactivity</li>
+    \n<li>Attention problems</li>
+    \n<li>Anxiety and depression</li>
+
+\n\nRead more about the latest news and information on medication warnings, patient medication guides, or newly approved medications at the Food and Drug Administration’s (FDA) website at https://www.fda.gov/.
+Behavioral, psychological, and educational therapy
+
+\n\nPeople with ASD may be referred to doctors who specialize in providing behavioral, psychological, educational, or skill-building interventions. These programs are typically highly structured and intensive and may involve parents, siblings, and other family members. Programs may help people with ASD:
+
+    \n<li>Learn life-skills necessary to live independently</li>
+    \n<li>Reduce challenging behaviors</li>
+    \n<li>Increase or build upon strengths</li>
+    \n<li>Learn social, communication, and language skills</li>
+
+
+    \n <a href="https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd/index.shtml">National Institute of Mental Health"</a>
+
+
+    </string>
+
+    <string name="treatmentCDC">
+
+        \nTreatment discussion from the cdc
+
+\n\nThere is currently no cure for ASD. However, research shows that early intervention treatment services can improve a child’s development.2, 3 Early intervention services help children from birth to 3 years old (36 months) learn important skills. Services can include therapy to help the child talk, walk, and interact with others. Therefore, it is important to talk to your child’s doctor as soon as possible if you think your child has ASD or other developmental problem.
+
+\n\nEven if your child has not been diagnosed with an ASD, he or she may be eligible for early intervention treatment services. The Individuals with Disabilities Education Act (IDEA) says that children under the age of 3 years (36 months) who are at risk of having developmental delays may be eligible for services. These services are provided through an early intervention system in your state. Through this system, you can ask for an evaluation.
+
+\n\nIn addition, treatment for particular symptoms, such as speech therapy for language delays, often does not need to wait for a formal ASD diagnosis.
+
+\n\nThere are no medications that can cure ASD or treat the core symptoms. However, there are medications that can help some people with ASD function better. For example, medication might help manage high energy levels, inability to focus, depression, or seizures.
+
+\n\nMedications might not affect all children in the same way. It is important to work with a health care professional who has experience in treating children with ASD. Parents and health care professionals must closely monitor a child’s progress and reactions while he or she is taking a medication to be sure that any negative side effects of the treatment do not outweigh the benefits.
+
+\n\nIt is also important to remember that children with ASD can get sick or injured just like children without ASD. Regular medical and dental exams should be part of a child’s treatment plan. Often it is hard to tell if a child’s behavior is related to the ASD or is caused by a separate health condition. For instance, head banging could be a symptom of the ASD, or it could be a sign that the child is having headaches. In those cases, a thorough physical exam is needed. Monitoring healthy development means not only paying attention to symptoms related to ASD, but also to the child’s physical and mental health, as well.
+
+\n\nTypes of Treatments
+
+\n\nThere are many different types of treatments available. For example, auditory training, discrete trial training, vitamin therapy, anti-yeast therapy, facilitated communication, music therapy, occupational therapy, physical therapy, and sensory integration.
+
+\n\nThe different types of treatments can generally be broken down into the following categories:
+
+    \n<li>Behavior and Communication Approaches</li>
+    \n<li>Dietary Approaches</li>
+    \n<li>Medication</li>
+    \n<li>Complementary and Alternative Medicine</li>
+
+    <a href="https://www.cdc.gov/ncbddd/autism/facts.html">CDC</a>
+
+
+
+    </string>
+
+
+    <string name="treatmentASOA">
+
+        \nTreatments and Therapies from the national institue of mental health
+
+\n\nTreatment for ASD should begin as soon as possible after diagnosis. Early treatment for ASD is important as proper care can reduce individuals’ difficulties while helping them learn new skills and make the most of their strengths.
+
+\n\nThe wide range of issues facing people with ASD means that there is no single best treatment for ASD. Working closely with a doctor or health care professional is an important part of finding the right treatment program.
+Medication
+
+\n\nA doctor may use medication to treat some symptoms that are common with ASD. With medication, a person with ASD may have fewer problems with:
+
+    \n<li>Irritability</li>
+    \n<li>Aggression</li>
+    \n<li>Repetitive behavior</li>
+    \n<li>Hyperactivity</li>
+    \n<li>Attention problems</li>
+    \n<li>Anxiety and depression</li>
+
+\n\nRead more about the latest news and information on medication warnings, patient medication guides, or newly approved medications at the Food and Drug Administration’s (FDA) website at https://www.fda.gov/.
+Behavioral, psychological, and educational therapy
+
+\n\nPeople with ASD may be referred to doctors who specialize in providing behavioral, psychological, educational, or skill-building interventions. These programs are typically highly structured and intensive and may involve parents, siblings, and other family members. Programs may help people with ASD:
+
+    \n<li>Learn life-skills necessary to live independently</li>
+    \n<li>Reduce challenging behaviors</li>
+    \n<li>Increase or build upon strengths</li>
+    \n<li>Learn social, communication, and language skills</li>
+
+
+    \n <a href="https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd/index.shtml">National Institute of Mental Health"</a>
+
+
+
+\n\nWhile there is no known cure for autism, there are treatment and education approaches that can address some of the challenges associated with the condition. Intervention can help to lessen disruptive behaviors, and education can teach self-help skills for greater independence. But just as there is no one symptom or behavior that identifies people with autism, there is no single treatment that will be effective for everyone on the spectrum. Individuals can use the positive aspects of their condition to their benefit, but treatment must begin as early as possible and focus on the individual’s unique strengths, weaknesses and needs.
+
+\n\nThroughout the history of the Autism Society, parents and professionals have been confounded by conflicting messages regarding which treatment options are appropriate for children and adults on the autism spectrum. As each person responds to treatment differently, we cannot endorse any one treatment or program. Families should educate themselves about all options and choose what they feel is in the best interest of their child and family, based on their experience and what resources are available.
+
+\n\nThis section provides an overview of many available approaches, not specific treatment recommendations. Keep in mind that the word “treatment” is used in a very limited sense. While typically used for children under age three, the approaches described here can be included in an educational program for older children as well.
+
+\n\nIt is important to match a child’s potential and specific needs with treatments or strategies that are likely to help him/her reach established goals and greatest potential. The Autism Society does not want to give the impression that parents or professionals will select just one treatment from a list. A search for appropriate treatment must be paired with the knowledge that all treatment approaches are not equal – what works for one will not work for all. The basis a treatment plan should come from a thorough evaluation of the child’s strengths and weaknesses.
+
+\n\nhttp://www.autism-society.org/living-with-autism/treatment-options/
+
+\n\nWe sadly do not have the size to show all the fantastic treatment ideas provided by the Autism Society provided below are some fantastic links for learning some of their reccommended treatments
+
+\n\nNonmedical Interventions
+
+\n\nhttp://www.autism-society.org/living-with-autism/treatment-options/nonmedical-interventions/
+
+\n\nRelated Approaches
+
+\n\nhttp://www.autism-society.org/living-with-autism/treatment-options/related-approaches/
+
+\n\nEvaluating Options
+
+\n\nhttp://www.autism-society.org/living-with-autism/treatment-options/evaluating-options/
+
+
+
+    </string>
+
+
+    
+</resources>

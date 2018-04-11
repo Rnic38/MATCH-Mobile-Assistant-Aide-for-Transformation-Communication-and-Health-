@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+            android:id="@+id/nav_home"
+            android:title="Home"/>
+
+    <group android:checkableBehavior="single">
+        <item android:title="What is Autism?">
+            <menu>
+                <item
+                    android:id="@+id/nav_generalInformation"
+                    android:title="Information from the NIMH"/>
+                            <item
+                            android:id="@+id/nav_generalInformationCDC"
+                            android:title="Information from the CDC"
+                            />
+                            <item
+                            android:id="@+id/nav_generalInformationASOA"
+                            android:title="Information from the ASOA"/>
+
+            </menu>
+        </item>
+    </group>
+
+
+        <item android:title="Signs and Symptoms">
+            <menu>
+                        <item
+                            android:id="@+id/nav_signsandsymptomsNIMH"
+                            android:title="Information from the NIMH"/>
+                        <item
+                            android:id="@+id/nav_signsandsymptomsCDC"
+                            android:title="Information from the CDC"
+                            />
+                        <item
+                            android:id="@+id/nav_signsandsymptomsASOA"
+                            android:title="Information from the ASOA"/>
+
+            </menu>
+
+
+
+
+
+
+        </item>
+
+    <item android:title="Causes/Diagnoses/Risks">
+        <menu>
+            <item
+                android:id="@+id/nav_causesNIMH"
+                android:title="Information from the NIMH"/>
+            <item
+                android:id="@+id/nav_causesCDC"
+                android:title="Information from the CDC"
+                />
+            <item
+                android:id="@+id/nav_causesASOA"
+                android:title="Information from the ASOA"/>
+
+        </menu>
+
+    </item>
+
+
+        <item android:title="Treatments/Facts/Statistics">
+            <menu>
+                <item
+                    android:id="@+id/nav_treatmentNIMH"
+                    android:title="Information from the NIMH"/>
+                <item
+                    android:id="@+id/nav_treatmentCDC"
+                    android:title="Information from the CDC"
+                    />
+                <item
+                    android:id="@+id/nav_treatmentASOA"
+                    android:title="Information from the ASOA"/>
+
+            </menu>
+
+
+
+
+
+
+        </item>
+
+
+
+    <item android:title="Information About the App">
+        <menu>
+            <item
+                android:id="@+id/nav_whoWeAre"
+                android:title="The Team behind the app" />
+            <item
+                android:id="@+id/nav_resources"
+                android:layout_width="wrap_content"
+                android:title="Resources used in app creation" />
+        </menu>
+    </item>
+
+</menu>
